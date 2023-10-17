@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "f704ecbb302276f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "297a2ac25a9cede7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c04aa35e256db2a2",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+                "viewState": {
+                  "x": 1551.3863051507667,
+                  "y": -398.2315432182668,
+                  "zoom": -0.768745421539932
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7372f9cc5fd4c749",
+    "type": "split",
+    "children": [
+      {
+        "id": "9549d6beaf4de5b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4dbb20a423c8bcb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42122b6ce2a39231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca034f0b6ec6ec36",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd57c4b46171962",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5
+  },
+  "right": {
+    "id": "a36af002621dbd1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a7db7522b43219",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d242b2bf11cfaf50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "439b49f0f638c9d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a00c0bfdcd6c7ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "deaca6af37d56971",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas"
+              }
+            }
+          },
+          {
+            "id": "ad32cbdc8576cbaa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "deaca6af37d56971",
+  "lastOpenFiles": [
+    "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+    "ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md",
+    "2023-10-13.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104930.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104859.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013102745.png",
+    "ENSIBS/S9/Projet_S9/Sujet.jpg",
+    "ENSIBS/S9/Projet_S9/Sans titre.md",
+    "ENSIBS/S9/Projet_S9/Recherches",
+    "ENSIBS/S9/Projet_S9",
+    "ENSIBS/S9",
+    "ENSIBS",
+    "Sanjhlqkjhvks titre.md",
+    "2023-07-27.md",
+    "MonCerveau/Readme.md",
+    "MonCerveau/ServerHP",
+    "2023-03-07.md",
+    "MonCerveau",
+    "sdbfkjsdb.md",
+    "Sans titre 1.canvas",
+    "folder1/Folder 11/ksdjfhlsdfsdkjbfsd.md",
+    "folder1/Folder 11",
+    "folder1"
+  ]
+}

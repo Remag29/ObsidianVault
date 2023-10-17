@@ -1,0 +1,5 @@
+De nos jours, les systèmes de combats militaires communiquent via des réseaux sécurisés. Ces derniers sont globalement sûrs mais peuvent peiner à supporter la charge induite par les échanges de données massifs. Par exemple, le système de combat Scorpion I génère 30 To de données lors d'une seule journée de combat. Or, si on regarde le conflit Ukraino-Russe, force est de constater que l'utilisation de réseaux civils lorsque cela est possible amène une capacité plus grande et des bandes passantes plus larges.
+
+Dans ce contexte, le DCS (Data Centric Security) est une approche visant à sécuriser la donnée et non plus seulement son canal de communication. La donnée ainsi protégée doit être capable de déterminer automatiquement à qui elle doit être délivrée en respectant le principe du « droit d'en connaitre ».
+
+Dans ce projet, vous aurez à **défricher la connaissance actuelle autour du DCS** et à réaliser une **expérimentation de ses principes**.

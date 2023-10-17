@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"444e4c91037b5740","type":"file","file":"ENSIBS/S9/Projet_S9/Sujet.jpg","x":-340,"y":-180,"width":437,"height":632},
+		{"id":"7c268e153685fbdf","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md","x":880,"y":-1200,"width":390,"height":420},
+		{"id":"7b0322b1f04d2507","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md","x":1360,"y":-1200,"width":400,"height":420},
+		{"id":"7a582bd2ee3192d1","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md","x":1020,"y":-530,"width":580,"height":780},
+		{"id":"765dff9d69484e80","type":"text","text":"Etat de l’art pour des structures de déchiffrement","x":1123,"y":-720,"width":375,"height":80},
+		{"id":"9a839b26c88001b4","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/OpenABE.md","x":1110,"y":-1800,"width":400,"height":400},
+		{"id":"45b05d661eb36dfc","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md","x":1940,"y":-880,"width":400,"height":400},
+		{"id":"313507503e6e280f","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md","x":60,"y":620,"width":820,"height":500},
+		{"id":"f46539b590c03bc3","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md","x":300,"y":-530,"width":540,"height":800}
+	],
+	"edges":[
+		{"id":"0bc390d4c3eb93a2","fromNode":"444e4c91037b5740","fromSide":"right","toNode":"f46539b590c03bc3","toSide":"left"},
+		{"id":"641ca44743a0328b","fromNode":"f46539b590c03bc3","fromSide":"right","toNode":"7a582bd2ee3192d1","toSide":"left"},
+		{"id":"b5b4a69cf843865d","fromNode":"7a582bd2ee3192d1","fromSide":"top","toNode":"7c268e153685fbdf","toSide":"bottom"},
+		{"id":"91e389f66213cfa2","fromNode":"7a582bd2ee3192d1","fromSide":"top","toNode":"7b0322b1f04d2507","toSide":"bottom"},
+		{"id":"d0c42505683483b7","fromNode":"7c268e153685fbdf","fromSide":"top","toNode":"9a839b26c88001b4","toSide":"bottom"},
+		{"id":"3431620f389173ac","fromNode":"7b0322b1f04d2507","fromSide":"top","toNode":"9a839b26c88001b4","toSide":"bottom"},
+		{"id":"20b78c7d6a4e435a","fromNode":"7a582bd2ee3192d1","fromSide":"right","toNode":"45b05d661eb36dfc","toSide":"left","label":"Cite le projet"},
+		{"id":"c9d6baf3e490dfb6","fromNode":"444e4c91037b5740","fromSide":"bottom","toNode":"313507503e6e280f","toSide":"left"}
+	]
+}
