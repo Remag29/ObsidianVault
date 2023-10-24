@@ -11,14 +11,21 @@
             "id": "c04aa35e256db2a2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
-                "viewState": {
-                  "x": 1551.3863051507667,
-                  "y": -398.2315432182668,
-                  "zoom": -0.768745421539932
-                }
+                "file": "ENSIBS/S9/Projet_S9/Cahier des charges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a1686846024c1bd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ENSIBS/S9/Projet_S9/Sujet.jpg"
               }
             }
           }
@@ -80,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 298.5
   },
   "right": {
     "id": "a36af002621dbd1e",
@@ -96,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+                "file": "ENSIBS/S9/Projet_S9/Cahier des charges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+                "file": "ENSIBS/S9/Projet_S9/Cahier des charges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas"
+                "file": "ENSIBS/S9/Projet_S9/Cahier des charges.md"
               }
             }
           },
@@ -168,23 +175,26 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "deaca6af37d56971",
+  "active": "c04aa35e256db2a2",
   "lastOpenFiles": [
+    "ENSIBS/S9/Projet_S9/Sujet.jpg",
+    "ENSIBS/S9/Projet_S9/Cahier des charges.md",
+    "ENSIBS/S9/Projet_S9/Note rdv.md",
     "ENSIBS/S9/Projet_S9/MainBoard.canvas",
-    "ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
     "ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231023102654.png",
     "ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
+    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
     "ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md",
     "2023-10-13.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104930.png",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104859.png",
     "ENSIBS/S9/Projet_S9/Recherches/Images",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013102745.png",
-    "ENSIBS/S9/Projet_S9/Sujet.jpg",
     "ENSIBS/S9/Projet_S9/Sans titre.md",
     "ENSIBS/S9/Projet_S9/Recherches",
     "ENSIBS/S9/Projet_S9",
