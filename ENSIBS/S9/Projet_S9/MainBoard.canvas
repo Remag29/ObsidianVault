@@ -9,7 +9,8 @@
 		{"id":"45b05d661eb36dfc","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md","x":1940,"y":-880,"width":400,"height":400},
 		{"id":"313507503e6e280f","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md","x":60,"y":620,"width":820,"height":500},
 		{"id":"f46539b590c03bc3","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md","x":300,"y":-530,"width":540,"height":800},
-		{"id":"63da0be205a3ae55","type":"file","file":"ENSIBS/S9/Projet_S9/Cahier des charges.md","x":-1160,"y":-204,"width":440,"height":340}
+		{"id":"63da0be205a3ae55","type":"file","file":"ENSIBS/S9/Projet_S9/Cahier des charges.md","x":-1160,"y":-204,"width":440,"height":340},
+		{"id":"6bfc725c0b757697","x":-400,"y":-920,"width":400,"height":400,"type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/DCS.md"}
 	],
 	"edges":[
 		{"id":"0bc390d4c3eb93a2","fromNode":"444e4c91037b5740","fromSide":"right","toNode":"f46539b590c03bc3","toSide":"left"},
@@ -20,6 +21,7 @@
 		{"id":"3431620f389173ac","fromNode":"7b0322b1f04d2507","fromSide":"top","toNode":"9a839b26c88001b4","toSide":"bottom"},
 		{"id":"20b78c7d6a4e435a","fromNode":"7a582bd2ee3192d1","fromSide":"right","toNode":"45b05d661eb36dfc","toSide":"left","label":"Cite le projet"},
 		{"id":"c9d6baf3e490dfb6","fromNode":"444e4c91037b5740","fromSide":"bottom","toNode":"313507503e6e280f","toSide":"left"},
-		{"id":"6077afc09b56bdbc","fromNode":"444e4c91037b5740","fromSide":"left","toNode":"63da0be205a3ae55","toSide":"right"}
+		{"id":"6077afc09b56bdbc","fromNode":"444e4c91037b5740","fromSide":"left","toNode":"63da0be205a3ae55","toSide":"right"},
+		{"id":"583c94674a388642","fromNode":"444e4c91037b5740","fromSide":"top","toNode":"6bfc725c0b757697","toSide":"bottom"}
 	]
 }

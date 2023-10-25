@@ -1,0 +1,3 @@
+> Data-Centric Security
+
+Le **_DCS_**, ou **_Data-Centric Security_** (Sécurité centrée sur les données), est une approche de la sécurité informatique qui met l'accent sur la protection des données elles-mêmes plutôt que sur la sécurité des périmètres ou des points d'accès. L'objectif principal du DCS est de renforcer la sécurité des données, en mettant l'accent sur leur importance et leur confidentialité.

@@ -17,4 +17,4 @@ Voici quelques points clés à retenir sur le projet OpenABE :
 5. Communauté : Le projet OpenABE est généralement soutenu par une communauté d'utilisateurs et de développeurs qui contribuent au développement et à l'amélioration des bibliothèques et des outils ABE.
 
 
-Il convient de noter que le domaine de l'ABE est en constante évolution, et il existe différentes variantes et implémentations d'ABE, telles que CP-ABE (Cipher Policy ABE) et KP-ABE (Key Policy ABE), qui se concentrent sur différents aspects du chiffrement basé sur les attributs. Si vous souhaitez en savoir plus sur OpenABE, je vous recommande de consulter le site web du projet ou les ressources de la communauté pour obtenir des informations plus détaillées sur les fonctionnalités, les cas d'utilisation et les mises à jour récentes du projet.
+Il convient de noter que le domaine de l'ABE est en constante évolution, et il existe différentes variantes et implémentations d'ABE, telles que CP-ABE (Cipher Policy ABE) et KP-ABE (Key Policy ABE), qui se concentrent sur différents aspects du chiffrement basé sur les attributs.
