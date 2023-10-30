@@ -15,39 +15,14 @@
               "state": {
                 "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
                 "viewState": {
-                  "x": 506.0610553273154,
-                  "y": -542.4690434511466,
-                  "zoom": -1.1613980454168376
+                  "x": -591.8454613699928,
+                  "y": 335.08427346313226,
+                  "zoom": -1.0540442893921729
                 }
               }
             }
-          },
-          {
-            "id": "75b7ae472bc01ad7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENSIBS/S9/Projet_S9/Cahier des charges.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8779a54c5f5667cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 320.5,
+    "collapsed": true
   },
   "right": {
     "id": "a36af002621dbd1e",
@@ -121,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md"
+                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas"
               }
             }
           },
@@ -193,30 +169,35 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "8779a54c5f5667cf",
+  "active": "b4dbb20a423c8bcb",
   "lastOpenFiles": [
-    "ENSIBS/S9/Projet_S9/Recherches/DCS.md",
-    "ENSIBS/S9/Projet_S9/Cahier des charges.md",
+    "ENSIBS/S9/Projet_S9/Packages/Charm.md",
+    "Pasted image 20231025143304.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Exemple pour la médecine.md",
     "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+    "ENSIBS/S9/Projet_S9/Packages",
+    "ENSIBS/S9/Projet_S9/Question.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/CP-ABE et KP-ABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
+    "ENSIBS/S9/Projet_S9/Cahier des charges.md",
+    "ENSIBS/S9/Projet_S9/Recherches/DCS.md",
     "README.md",
     "Note de merde.md",
     "ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md",
     "ENSIBS/S9/Projet_S9/Sujet.jpg",
     "ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md",
     "ENSIBS/S9/Projet_S9/Note rdv.md",
     "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231023102654.png",
     "ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
-    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
     "2023-10-13.md",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104930.png",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104859.png",
     "ENSIBS/S9/Projet_S9/Recherches/Images",
     "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013102745.png",
-    "ENSIBS/S9/Projet_S9/Sans titre.md",
     "ENSIBS/S9/Projet_S9/Recherches",
     "ENSIBS/S9/Projet_S9",
     "ENSIBS/S9",

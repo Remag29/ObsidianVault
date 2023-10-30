@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"444e4c91037b5740","type":"file","file":"ENSIBS/S9/Projet_S9/Sujet.jpg","x":-340,"y":-180,"width":437,"height":632},
+		{"id":"444e4c91037b5740","type":"file","file":"ENSIBS/S9/Projet_S9/Sujet.jpg","x":-340,"y":-180,"width":437,"height":632,"color":"1"},
 		{"id":"7c268e153685fbdf","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md","x":880,"y":-1200,"width":390,"height":420},
 		{"id":"7b0322b1f04d2507","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md","x":1360,"y":-1200,"width":400,"height":420},
 		{"id":"7a582bd2ee3192d1","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md","x":1020,"y":-530,"width":580,"height":780},
@@ -9,8 +9,10 @@
 		{"id":"45b05d661eb36dfc","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md","x":1940,"y":-880,"width":400,"height":400},
 		{"id":"313507503e6e280f","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md","x":60,"y":620,"width":820,"height":500},
 		{"id":"f46539b590c03bc3","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md","x":300,"y":-530,"width":540,"height":800},
-		{"id":"63da0be205a3ae55","type":"file","file":"ENSIBS/S9/Projet_S9/Cahier des charges.md","x":-1160,"y":-204,"width":440,"height":340},
-		{"id":"6bfc725c0b757697","x":-400,"y":-920,"width":400,"height":400,"type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/DCS.md"}
+		{"id":"63da0be205a3ae55","type":"file","file":"ENSIBS/S9/Projet_S9/Cahier des charges.md","x":-1320,"y":-204,"width":600,"height":564,"color":"1"},
+		{"id":"6bfc725c0b757697","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/DCS.md","x":-400,"y":-920,"width":400,"height":400},
+		{"id":"b03ed997bdf41968","type":"text","text":"# 2 choses à faire\n- Recherche bibliographique sur le sujet de l'ABE\n- Recherche sur l'ABE pour POC\n\t- Comprend le listing des attributs essentiels pour la mise en place dans un contexte médical de MES.","x":-2160,"y":-380,"width":500,"height":300},
+		{"id":"10dc1229f41afca7","x":-1178,"y":652,"width":658,"height":508,"color":"3","type":"file","file":"ENSIBS/S9/Projet_S9/Packages/Charm.md"}
 	],
 	"edges":[
 		{"id":"0bc390d4c3eb93a2","fromNode":"444e4c91037b5740","fromSide":"right","toNode":"f46539b590c03bc3","toSide":"left"},
@@ -22,6 +24,7 @@
 		{"id":"20b78c7d6a4e435a","fromNode":"7a582bd2ee3192d1","fromSide":"right","toNode":"45b05d661eb36dfc","toSide":"left","label":"Cite le projet"},
 		{"id":"c9d6baf3e490dfb6","fromNode":"444e4c91037b5740","fromSide":"bottom","toNode":"313507503e6e280f","toSide":"left"},
 		{"id":"6077afc09b56bdbc","fromNode":"444e4c91037b5740","fromSide":"left","toNode":"63da0be205a3ae55","toSide":"right"},
-		{"id":"583c94674a388642","fromNode":"444e4c91037b5740","fromSide":"top","toNode":"6bfc725c0b757697","toSide":"bottom"}
+		{"id":"583c94674a388642","fromNode":"444e4c91037b5740","fromSide":"top","toNode":"6bfc725c0b757697","toSide":"bottom"},
+		{"id":"c6be635080110a8d","fromNode":"63da0be205a3ae55","fromSide":"left","toNode":"b03ed997bdf41968","toSide":"right"}
 	]
 }
