@@ -11,9 +11,9 @@ Il faut donc les installées avant.
 Pour cela, on prossède de la même manière pour les 3.
 - On commence par télécharger l'archive
 - Décompresse
-- Exécute le `./configuration`
+- Exécute le `./configure`
 - Exécuter `make` dans le dossier en question
-- Exécuter `sudo make install` pour installer le logicielle
+- Exécuter `(sudo) make install` pour installer le logicielle
 
 Après avoir fait cela pour les 3 dépendances, on peut venir faire la même chose pour ***Charm*** cette fois ci :
 ```bash
@@ -58,3 +58,9 @@ key = cpabe.keygen(pk, msk, attr_list)
 ```
 
 On a par exemple ici une clés qui contient les attributs `ONE`, `TWO` et `THREE`.
+
+## Chiffrement d'un message
+
+Il semblerait qu'il ne soit pas directement possible de chiffrer un message en string. On dois forcement passer par une groupe Gt de bit.
+https://crypto.stackexchange.com/questions/19310/what-is-msg-group-randomgt-in-charm-encryption-schemes
+

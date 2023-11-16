@@ -6,13 +6,14 @@
 		{"id":"7a582bd2ee3192d1","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md","x":1020,"y":-530,"width":580,"height":780},
 		{"id":"765dff9d69484e80","type":"text","text":"Etat de l’art pour des structures de déchiffrement","x":1123,"y":-720,"width":375,"height":80},
 		{"id":"9a839b26c88001b4","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/OpenABE.md","x":1110,"y":-1800,"width":400,"height":400},
-		{"id":"45b05d661eb36dfc","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md","x":1940,"y":-880,"width":400,"height":400},
 		{"id":"313507503e6e280f","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md","x":60,"y":620,"width":820,"height":500},
 		{"id":"f46539b590c03bc3","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md","x":300,"y":-530,"width":540,"height":800},
 		{"id":"63da0be205a3ae55","type":"file","file":"ENSIBS/S9/Projet_S9/Cahier des charges.md","x":-1320,"y":-204,"width":600,"height":564,"color":"1"},
 		{"id":"6bfc725c0b757697","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/DCS.md","x":-400,"y":-920,"width":400,"height":400},
 		{"id":"b03ed997bdf41968","type":"text","text":"# 2 choses à faire\n- Recherche bibliographique sur le sujet de l'ABE\n- Recherche sur l'ABE pour POC\n\t- Comprend le listing des attributs essentiels pour la mise en place dans un contexte médical de MES.","x":-2160,"y":-380,"width":500,"height":300},
-		{"id":"10dc1229f41afca7","x":-1178,"y":652,"width":658,"height":508,"color":"3","type":"file","file":"ENSIBS/S9/Projet_S9/Packages/Charm.md"}
+		{"id":"10dc1229f41afca7","type":"file","file":"ENSIBS/S9/Projet_S9/Packages/Charm.md","x":-1178,"y":652,"width":658,"height":508,"color":"3"},
+		{"id":"45b05d661eb36dfc","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md","x":2000,"y":-300,"width":400,"height":400},
+		{"id":"a3dedc21a1311936","type":"file","file":"ENSIBS/S9/Projet_S9/Recherches/Images/cpABE_graph_function.png","x":1900,"y":-1310,"width":1080,"height":780}
 	],
 	"edges":[
 		{"id":"0bc390d4c3eb93a2","fromNode":"444e4c91037b5740","fromSide":"right","toNode":"f46539b590c03bc3","toSide":"left"},
@@ -25,6 +26,7 @@
 		{"id":"c9d6baf3e490dfb6","fromNode":"444e4c91037b5740","fromSide":"bottom","toNode":"313507503e6e280f","toSide":"left"},
 		{"id":"6077afc09b56bdbc","fromNode":"444e4c91037b5740","fromSide":"left","toNode":"63da0be205a3ae55","toSide":"right"},
 		{"id":"583c94674a388642","fromNode":"444e4c91037b5740","fromSide":"top","toNode":"6bfc725c0b757697","toSide":"bottom"},
-		{"id":"c6be635080110a8d","fromNode":"63da0be205a3ae55","fromSide":"left","toNode":"b03ed997bdf41968","toSide":"right"}
+		{"id":"c6be635080110a8d","fromNode":"63da0be205a3ae55","fromSide":"left","toNode":"b03ed997bdf41968","toSide":"right"},
+		{"id":"1a2d33adb3b27002","fromNode":"7b0322b1f04d2507","fromSide":"right","toNode":"a3dedc21a1311936","toSide":"left"}
 	]
 }

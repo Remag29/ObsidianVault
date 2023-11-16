@@ -4,22 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "297a2ac25a9cede7",
+        "id": "409f27164bfe9ec3",
         "type": "tabs",
         "children": [
           {
-            "id": "c04aa35e256db2a2",
+            "id": "1f3514f63647b28b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
-                "viewState": {
-                  "x": -591.8454613699928,
-                  "y": 335.08427346313226,
-                  "zoom": -1.0540442893921729
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -80,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
+    "width": 342.5,
     "collapsed": true
   },
   "right": {
@@ -97,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ENSIBS/S9/Projet_S9/MainBoard.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -169,35 +158,42 @@
       "command-palette:Ouvrir la palette de commandes": false
     }
   },
-  "active": "b4dbb20a423c8bcb",
+  "active": "1f3514f63647b28b",
   "lastOpenFiles": [
+    "ENSIBS/S9/Projet_S9/Cahier des charges.md",
+    "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+    "ENSIBS/S9/Projet_S9/Sujet.jpg",
+    "ENSIBS/S9/Projet_S9/Plan et idée article brouillon.md",
+    "ENSIBS/S9/Projet_S9/Notes Points/09_11_2023.md",
+    "ENSIBS/S9/Projet_S9/Recherches/DCS.md",
     "ENSIBS/S9/Projet_S9/Packages/Charm.md",
-    "Pasted image 20231025143304.png",
+    "ENSIBS/S9/Projet_S9/Plan Slide Point Avancement 09_11_2023.md",
+    "ENSIBS/S9/Projet_S9/Recherches/CP-ABE et KP-ABE.md",
     "ENSIBS/S9/Projet_S9/Recherches/Détails sur l’article de recherche.md",
     "ENSIBS/S9/Projet_S9/Recherches/Exemple pour la médecine.md",
-    "ENSIBS/S9/Projet_S9/MainBoard.canvas",
+    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
+    "ENSIBS/S9/Projet_S9/Note rdv.md",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/cpABE_graph_function.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013102745.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104859.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104930.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231023102654.png",
+    "ENSIBS/S9/Projet_S9/Recherches/Images/cpABE_graph_function.png.crdownload",
+    "ENSIBS/S9/Projet_S9/Recherches/Pasted image 20231025143304.png",
+    "ENSIBS/S9/Projet_S9/Notes Points/30_10_2023.md",
+    "ENSIBS/S9/Projet_S9/Notes Points",
     "ENSIBS/S9/Projet_S9/Packages",
     "ENSIBS/S9/Projet_S9/Question.md",
     "ENSIBS/S9/Projet_S9/Recherches/Architecture CP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/CP-ABE et KP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Recherches/OpenABE.md",
-    "ENSIBS/S9/Projet_S9/Cahier des charges.md",
-    "ENSIBS/S9/Projet_S9/Recherches/DCS.md",
     "README.md",
     "Note de merde.md",
     "ENSIBS/S9/Projet_S9/Recherches/Architecture KP-ABE.md",
-    "ENSIBS/S9/Projet_S9/Sujet.jpg",
-    "ENSIBS/S9/Projet_S9/Recherches/Résumé_projet.md",
-    "ENSIBS/S9/Projet_S9/Note rdv.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Proxy re-encryption methods.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231023102654.png",
     "ENSIBS/S9/Projet_S9/Recherches/Bibliographie cité.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231017133251.png",
     "2023-10-13.md",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104930.png",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013104859.png",
     "ENSIBS/S9/Projet_S9/Recherches/Images",
-    "ENSIBS/S9/Projet_S9/Recherches/Images/Pasted image 20231013102745.png",
     "ENSIBS/S9/Projet_S9/Recherches",
     "ENSIBS/S9/Projet_S9",
     "ENSIBS/S9",
@@ -208,10 +204,6 @@
     "MonCerveau/ServerHP",
     "2023-03-07.md",
     "MonCerveau",
-    "sdbfkjsdb.md",
-    "Sans titre 1.canvas",
-    "folder1/Folder 11/ksdjfhlsdfsdkjbfsd.md",
-    "folder1/Folder 11",
-    "folder1"
+    "Sans titre 1.canvas"
   ]
 }
